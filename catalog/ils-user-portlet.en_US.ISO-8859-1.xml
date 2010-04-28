@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="ils-user-portlet" locale="en_US" charset="ISO-8859-1">
+
+  <msg key="Display_ils_questionary">Index of Learning Styles Questionnaire</msg>
+  <msg key="No_community_specified">No community specified</msg>
+  <msg key="pretty_name">Learning Styles</msg>
+
+
+
+
+
+</message_catalog>
